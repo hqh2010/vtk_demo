@@ -51,3 +51,5 @@ sudo apt install qml-module-qtquick*
 2. [ubuntu如何安装opengl](https://www.8kiz.cn/archives/22084.html)
 
 3. [安装VTK遇到的qml报错的问题](https://blog.csdn.net/qq_39174336/article/details/135490742)
+
+4. [VTK自带的Example网站资料](https://examples.vtk.org/site/Cxx/GeometricObjects/CylinderExample/)
